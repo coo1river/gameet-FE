@@ -137,7 +137,7 @@ export default function GameInfoForm({
           이전
         </Buttons>
 
-        <Buttons type="button" onClick={methods.handleSubmit(handleSubmit)}>
+        <Buttons type="submit" onClick={methods.handleSubmit(handleSubmit)}>
           완료
         </Buttons>
       </div>

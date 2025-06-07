@@ -24,7 +24,7 @@ export const passwordValid: RegisterOptions = {
   },
 };
 
-export const passwordCheckValid = (getPassword: () => string | undefined): RegisterOptions => ({
+export const passwordCheckValid = (getPassword: () => string): RegisterOptions => ({
   required: "비밀번호 확인은 필수 입력 항목입니다.",
   validate: (value: string) => value === getPassword() || "비밀번호가 일치하지 않습니다.",
 });
