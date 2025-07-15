@@ -1,4 +1,4 @@
-# 👾Gameet👾
+![녹화_2025_07_15_23_08_55_514](https://github.com/user-attachments/assets/c9370e2a-fd89-4219-a372-68eef4abba0e)# 👾Gameet👾
 
 ## 프로젝트 소개
 ![겜밋 목업](https://github.com/user-attachments/assets/efa8d531-9d6d-4f9b-9463-1a5888b3ece7)
@@ -95,8 +95,18 @@ pnpm storybook // 스토리북 실행
 ### 🖥️ 회원가입
 ![캡처_2025_06_23_03_32_07_331](https://github.com/user-attachments/assets/31a7f88b-256d-42c8-a628-7e4d1551b1b7)
 
+### 🖥️ 로그인
+![녹화_2025_07_15_22_58_19_204](https://github.com/user-attachments/assets/81740eb2-e253-4b6f-85a2-9c7be4ce446b)
+
 ### 🖥️ 매칭하기
 ![녹화_2025_06_23_03_38_25_468](https://github.com/user-attachments/assets/5edec5b2-15ed-4bd4-abf4-4b28086a5d31)
+
+### 🖥️ 매칭 완료 및 채팅방 연결
+![녹화_2025_07_15_23_07_42_618](https://github.com/user-attachments/assets/8d86f571-af26-476b-a140-45f20f5f7a75)
+
+### 🖥️ 채팅방 내 상대 정보 & 약속 잡기
+![녹화_2025_07_15_23_09_34_753](https://github.com/user-attachments/assets/a06e2081-25e3-4ac5-828c-8423dac108a3)
+
 
 ## 커밋/브랜치 컨벤션
 
