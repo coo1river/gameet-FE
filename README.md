@@ -1,4 +1,4 @@
-![녹화_2025_07_15_23_08_55_514](https://github.com/user-attachments/assets/c9370e2a-fd89-4219-a372-68eef4abba0e)# 👾Gameet👾
+# 👾Gameet👾
 
 ## 프로젝트 소개
 ![겜밋 목업](https://github.com/user-attachments/assets/efa8d531-9d6d-4f9b-9463-1a5888b3ece7)
